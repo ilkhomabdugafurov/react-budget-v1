@@ -1,5 +1,3 @@
-![react budget v1](blob:https://vercel.com/63ed21f7-7cb5-4ebc-a00c-c156d7996e91)
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
